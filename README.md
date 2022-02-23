@@ -27,3 +27,6 @@ ls
 cd iliatyseon
 
 python iliatyseon.py
+
+kxkoslcsllalxclcls
+Sxlalalxldlaxlclalclda
